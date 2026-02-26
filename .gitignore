@@ -1,0 +1,12 @@
+# Python virtual environments
+venv/
+env/
+.env
+*.env
+
+# Conda environments
+*.yml
+*.yaml
+
+# Pipenv
+Pipfile.lock
